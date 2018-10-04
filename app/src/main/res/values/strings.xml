@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sixCheckBoxes</string>
+    <string name="instructionsText">Select any number of CheckBox and display the text on the CheckBox on Button Click</string>
+    <string name="cBoxText1">Check One</string>
+    <string name="cBoxText2">Check Two</string>
+    <string name="cBoxText3">Check Three</string>
+    <string name="cBoxText4">Check Four</string>
+    <string name="buttonText">Display selected CheckBox values</string>
+</resources>
